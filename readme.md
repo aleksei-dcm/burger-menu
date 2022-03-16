@@ -1,3 +1,4 @@
-# GitHub Adaptive Burger Menu
-- added mobile menu
+# Adaptive Burger Menu
 - breakpoin for mobile devices 
+- added mobile menu
+- 
