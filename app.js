@@ -13,6 +13,7 @@ header_burger.onclick = function(){
     back.classList.toggle('lock');
 }
 
+
 header_list.onclick = function () {
     header_list.classList.remove('active');
     back.classList.toggle('lock');
