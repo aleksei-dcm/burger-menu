@@ -1,3 +1,3 @@
 # Adaptive Burger Menu
-- breakpoin for mobile devices 
+- breakpoins for mobile devices 
 - added mobile menu
